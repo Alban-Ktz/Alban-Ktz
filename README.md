@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alban-Ktz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA | HTML/CSS | SQL
+- 🌱 I’m currently learning JAVA | HTML/CSS/JS | SQL
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me -> alban.ktz@gmail.com
 
