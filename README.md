@@ -2,7 +2,7 @@ README GITHUB
 # Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## About Me
-My name is Alban, et je suis un jeune étudiant passionné en informatique. Je suis actuellement en deuxième DUT Informatique, que j'acquérirais milieu 2022 (will graduate in mid 2022)
+Je m'appelle Alban, et je suis un jeune étudiant passionné en informatique. Je suis actuellement en deuxième DUT Informatique, que j'acquérirais milieu 2022 (will graduate in mid 2022)
 Dans ce DUT, nous avons appris plusieurs chose, d'abord l'apprentissage des algorithmes afin de résoude des problèmes. Nous avons aussi appris quelques languages via des projets données, comme le C/C++, du Java, HTML / CSS / PHP / mySQL
 En dehors des cours, j'ai appronfondi mes connaissances en Java à l'aide de Jetbrains.
 Je suis actuellement entrain d'apprendre le JavaScript à l'aide de codecademy, et l'utilisation des différentes fonctionnalité de GitHub
