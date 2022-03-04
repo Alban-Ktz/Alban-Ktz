@@ -12,7 +12,7 @@ J'aime beaucoup lire des livres de développement personnel et des livres de fin
 
 # Skills
 
-## Langages
+## Langages & Frameworks
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
