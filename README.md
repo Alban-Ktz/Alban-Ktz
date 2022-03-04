@@ -10,9 +10,9 @@ Je suis actuellement entrain d'apprendre le JavaScript à l'aide de codecademy, 
 En dehors du développement et de l'informatique, j'adore faire du sport, je fais de la musculation, et fait très attentation à mon alimentation.
 J'aime beaucoup lire des livres de développement personnel et des livres de finances, tel que Miracle Morning de Hal Elrod et le célèbre livre Comment se faire des amis de Dale Carnegie
 
-## Skills
+# Skills
 
-# Langages
+## Langages
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -20,13 +20,13 @@ J'aime beaucoup lire des livres de développement personnel et des livres de fin
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)<br>
 J'apprends : <br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-# Confortable avec
+## Confortable avec
 Visual Studio Code
 Intellij Community
 MySQL Workbench
 
 
-## Mes réseaux
+# Mes réseaux
 Linkedin :<br/>
 E-mail :
 <!---
