@@ -7,7 +7,7 @@ Dans ce DUT, nous avons appris plusieurs chose, d'abord l'apprentissage des algo
 En dehors des cours, j'ai appronfondi mes connaissances en Java à l'aide de Jetbrains.
 Je suis actuellement entrain d'apprendre le JavaScript à l'aide de codecademy, et l'utilisation des différentes fonctionnalité de GitHub
 
-En dehors du développement et de l'informatique, j'adore faire du sport, je fais de la musculation plusieurs fois par semaines, et fait très attentation à mon alimentation.
+En dehors du développement et de l'informatique, j'adore faire du sport, je fais de la musculation, et fait très attentation à mon alimentation.
 J'aime beaucoup lire des livres de développement personnel et des livres de finances, tel que Miracle Morning de Hal Elrod et le célèbre livre Comment se faire des amis de Dale Carnegie
 
 ## Skills
@@ -27,6 +27,8 @@ MySQL Workbench
 
 
 ## All my links
+Linkedin :
+E-mail :
 <!---
 Alban-Ktz/Alban-Ktz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
