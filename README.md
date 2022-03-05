@@ -24,8 +24,10 @@ Out of school, I follow some trainings on different website, like Jetbrains to l
 ![intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![msqlworkbench](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+![packoffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 Visual Studio Code
 Intellij IDEA Community
@@ -33,7 +35,7 @@ MySQL Workbench
 
 # Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Alban-Ktz}"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ThomasBasquin}"/>
 
 
 
