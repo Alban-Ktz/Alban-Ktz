@@ -1,9 +1,8 @@
 # Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## About me
-I'm Alban, and i'm a passionate IT student. Currently in 2nd of my Computer Science DUT.
-We firstly learned how to resolve problems with algorithms. And by some projects given, we also learned some languages and frameworks (see below).
-Je m'appelle Alban, et je suis un jeune étudiant passionné en informatique. Je suis actuellement en deuxième DUT Informatique, que j'acquérirais milieu 2022
+I'm Alban, and i'm a passionate IT student. Currently in 2nd of my Computer Science DUT.<br>
+We firstly learned how to resolve problems with algorithms. And by some projects given, we also learned some languages and frameworks (see below).<br>
 Out of school, I follow some trainings on different website, like Jetbrains to learn Java, and Codecademy for JavaScript.
 
 # Skills
