@@ -35,7 +35,7 @@ MySQL Workbench
 
 # Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={ThomasBasquin}"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alban-Ktz&show_icons=true&locale=en&layout=compact"/>
 
 
 
