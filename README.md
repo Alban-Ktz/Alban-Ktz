@@ -24,7 +24,7 @@ MySQL Workbench
 
 
 # My links
-<a href="https://linkedin.com/in/thomas basquin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alban-kuntz-398b62225/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 Linkedin : https://www.linkedin.com/in/alban-kuntz-398b62225/ <br/>
 E-mail : alban.ktz@gmail.com
