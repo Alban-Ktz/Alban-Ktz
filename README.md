@@ -3,7 +3,7 @@
 ## About me
 I'm Alban, and i'm a passionate IT student. Currently in 2nd of my Computer Science DUT.<br>
 We firstly learned how to resolve problems with algorithms. And by some projects given, we also learned some languages and frameworks (see below).<br>
-Out of school, I follow some trainings on different website, like Jetbrains to learn Java, and Codecademy for JavaScript.
+Out of school, I follow some trainings on different website, like Hyperskill.org to learn Java, and Codecademy.com for JavaScript.
 
 # Skills
 
